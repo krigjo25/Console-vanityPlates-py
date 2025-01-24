@@ -5,6 +5,8 @@ the requirement by CS50 Motor Vehicles, CS50MV
 The application was implemented as a CS50P assignment.<br>
 Please respect, and keep the [Academic Honesty Policy](https://cs50.harvard.edu/x/2023/honesty/) in mind.
 
+An demo can be watched at [CS50P: Problem Set 5](https://cs50.harvard.edu/python/2022/psets/2/plates/)
+
 ## Installation
 1. Clone the repository:
 ```sh
